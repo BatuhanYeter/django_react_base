@@ -15,7 +15,6 @@
 
 `django-admin startproject app_name .`
 
-> cd app_name
 
 > code .
 
